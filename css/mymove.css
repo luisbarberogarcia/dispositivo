@@ -1,0 +1,39 @@
+html{
+
+}
+
+body{
+    font-size: 20 px;
+}
+
+header h1{
+    font-size: 3em;
+    color:black;
+    align-content: center;
+    
+}
+
+h2{
+    font-size: 3em;
+    color:black;
+    align-content: center;
+}
+
+header p{
+    color:black;
+}
+
+
+header nav ul li  {
+    color: blue;
+    height: 200 px;
+    display: flex;
+    
+}
+
+img{
+    width: 300px;
+}
+
+
+
